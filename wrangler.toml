@@ -1,0 +1,11 @@
+name = "playjonny-opinie-pl"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=playjonny-opinie.pl"
+HMAC_KEY = "4c3216922b56a76b3eeeeac4e9f688f49caaaecb44c44a866192f7682a6338ac"
+COOKIE_NAME = "2qy"
+PLAY_PATH = "play"
+BUTTON_ID = "pbfd27f11a325f61057c9317eeda2adf2"
+GATE_SALT = "8f10627127efc224"
